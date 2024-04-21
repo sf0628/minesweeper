@@ -1,5 +1,5 @@
 # Minesweeper
-Minesweeper in Java using Northeastern University's [https://course.ccs.neu.edu/cs2510h/image-doc.html]
+Minesweeper in Java using Northeastern University's Image Library [https://course.ccs.neu.edu/cs2510h/image-doc.html]
 
 This assignment was created as an assignment for Northeastern's CS2510 course. By instructor policy, source code can be accessed only by request.
 ## Demo
