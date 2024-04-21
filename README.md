@@ -3,7 +3,7 @@ Minesweeper in Java using Northeastern University's [https://course.ccs.neu.edu/
 
 This assignment was created as an assignment for Northeastern's CS2510 course. By instructor policy, source code can be accessed only by request.
 ## Demo
-https://github.com/sf0628/minesweeper/issues/1#issue-2255331109
+![MinesweeperGIF](https://github.com/sf0628/minesweeper/assets/148008966/f3b88038-d70b-449b-a96f-da852f1ea4ce)
 ## Installation Instructions:
 1. Request source code.
 2. Download tester.jar and javalib.jar (https://course.ccs.neu.edu/cs2510sp24/lab1.html).
